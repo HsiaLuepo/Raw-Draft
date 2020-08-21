@@ -1,6 +1,6 @@
 ﻿All Rights Reserved.
 
-
+Volume 1 is uncompleted so far.(AUG 21st 2020)
 
 This is the first volume of"Kings Who Brought the Daylight."
 
