@@ -1,10 +1,17 @@
 ﻿All Rights Reserved.
+一切权利保留。
+All materials not authorized may not be redirected or for other usages.
+一切材料未经允许不得转载或用于其他用途。
+"All materials" include everything in this GitHub repository.
+“所有材料”包括这个GitHub存储库中的所有内容。
+
+
 
 Volume 1 is uncompleted so far.(AUG 21st 2020)
 
-This is the first volume of"Kings Who Brought the Daylight."
+This is the first volume of "Kings Who Brought the Daylight."
 
-I wrote it in Chinese,my native tongue,which makes it rather difficult  to read for those who don't speak it.My using figure of speech frequently may have intensified such difficulty,too.
+I wrote it in Chinese,my native tongue,which makes it rather difficult to read for those who don't speak it.My using figure of speech frequently may have intensified such difficulty,too.
 
 I may do the translation myself(if I have to).As you can see,however,I don't have a command of English good enough to do it perfectly.Anyone who feels like to help me with the translation could contact me on GitHub or via Email;I would appreciate that.
 
