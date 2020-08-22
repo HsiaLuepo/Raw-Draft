@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.8.16)  19 AUG 2020 09:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.8.16)  22 AUG 2020 13:14
 entering extended mode
-**C:/Users/七曜/Documents/创作/GitHub草稿/虚界来客*之卷.tex
-("C:/Users/七曜/Documents/创作/GitHub草稿/虚界来客 之卷.tex"
+**F:/GitHub/Raw-Draft/Vol*1/虚界来客*之卷.tex
+("F:/GitHub/Raw-Draft/Vol 1/虚界来客 之卷.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (F:\CTEX\MiKTeX\tex\latex\base\book.cls
@@ -306,7 +306,7 @@ Package ifpdf Info: The package is already loaded, stopped on input line 64.
 ))
 (F:\CTEX\MiKTeX\tex\latex\ctex\def\ctex-gbk.def)
 (F:\CTEX\MiKTeX\tex\latex\ctex\cfg\ctex.cfg)
-("C:\Users\七曜\Documents\创作\GitHub草稿\虚界来客 之卷.aux")
+("F:\GitHub\Raw-Draft\Vol 1\虚界来客 之卷.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
@@ -463,48 +463,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--73
 
  []
 
-[4] ("C:\Users\七曜\Documents\创作\GitHub草稿\虚界来客 之卷.aux") )
- 
+[4] ("F:\GitHub\Raw-Draft\Vol 1\虚界来客 之卷.aux") ) 
 Here is how much of TeX's memory you used:
- 8713 strings out of 495354
- 143036 string characters out of 3183859
- 177169 words of memory out of 3000000
- 11684 multiletter control sequences out of 15000+200000
- 31043 words of font info for 106 fonts, out of 3000000 for 9000
+ 8836 strings out of 495354
+ 145172 string characters out of 3183859
+ 179169 words of memory out of 3000000
+ 11806 multiletter control sequences out of 15000+200000
+ 34023 words of font info for 116 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,8n,27p,899b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/sim
-sun.ttc><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/F
-onts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simsun.ttc><C:/W
-indows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.t
-tc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/
-simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Window
-s/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C
-:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsu
-n.ttc><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fon
-ts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Win
-dows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simkai.ttf
-><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/si
-mkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/
-Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/
+ 36i,8n,27p,879b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Windows/Fonts/si
+msun.ttc><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/
+Fonts/simsun.ttc><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/
 Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simsun.
 ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts
 /simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windo
 ws/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><
 C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/sims
 un.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fo
-nts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Wi
-ndows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.tt
-c><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/
-simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Win
-dows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><F:/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><F:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr10.pfb><F:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><F:/CTEX/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><F:/CTEX/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr8.pfb><F:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "虚界来客 之卷.pdf" (6 pages, 273682 bytes).
+nts/simsun.ttc><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wi
+ndows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.tt
+f><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/s
+imkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows
+/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:
+/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai
+.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Font
+s/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Wind
+ows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc>
+<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/sim
+sun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/F
+onts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/W
+indows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.t
+tc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/
+simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simfang.ttf><C:/Windo
+ws/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.tt
+f><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><F:/CTEX/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb><F:/CTEX/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><F:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><F:/
+CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><F:/CTEX/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><F:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
+i12.pfb>
+Output written on "虚界来客 之卷.pdf" (6 pages, 296873 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
+ 317 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
