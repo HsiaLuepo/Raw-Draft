@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.8.16)  22 AUG 2020 13:14
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2020.8.16)  23 AUG 2020 15:26
 entering extended mode
 **F:/GitHub/Raw-Draft/Vol*1/虚界来客*之卷.tex
 ("F:/GitHub/Raw-Draft/Vol 1/虚界来客 之卷.tex"
@@ -465,10 +465,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--73
 
 [4] ("F:\GitHub\Raw-Draft\Vol 1\虚界来客 之卷.aux") ) 
 Here is how much of TeX's memory you used:
- 8836 strings out of 495354
- 145172 string characters out of 3183859
+ 8844 strings out of 495354
+ 145317 string characters out of 3183859
  179169 words of memory out of 3000000
- 11806 multiletter control sequences out of 15000+200000
+ 11814 multiletter control sequences out of 15000+200000
  34023 words of font info for 116 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  36i,8n,27p,879b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -503,7 +503,7 @@ fonts/cm/cmr10.pfb><F:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><F:/
 CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><F:/CTEX/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr8.pfb><F:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
 i12.pfb>
-Output written on "虚界来客 之卷.pdf" (6 pages, 296873 bytes).
+Output written on "虚界来客 之卷.pdf" (6 pages, 298522 bytes).
 PDF statistics:
  317 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
